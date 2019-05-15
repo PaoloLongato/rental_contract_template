@@ -1,0 +1,1 @@
+This is a demo on how to use Git and GitHub for in the context of the collaborative workflow of a law firm.
